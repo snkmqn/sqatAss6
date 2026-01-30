@@ -10,14 +10,12 @@ The assignment is divided into two parts:
 
 All tests are implemented in **Python** using **Selenium WebDriver** and **pytest**.
 
----
 
 ## Tested Website
 - **URL:** https://the-internet.herokuapp.com/login
 - **Description:**  
   A web application containing a login form with username and password fields and validation messages for successful and unsuccessful login attempts.
 
----
 
 ## Technologies and Tools Used
 
@@ -37,8 +35,6 @@ All tests are implemented in **Python** using **Selenium WebDriver** and **pytes
 - Browsers used:
   - Google Chrome (latest)
   - Microsoft Edge (latest)
-
----
 
 ## Project Structure
 
